@@ -1,1 +1,2 @@
-# courier__management_system
+# courier_management_system
+This is DBMS Project Using MySQL .
